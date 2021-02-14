@@ -2,3 +2,4 @@
 <h2> Deploying on a kubernetes using ansible for Krushnaji Technologies </h2>
 <h2> welcome RR devops engineer now i am at ansible folder </h2>
 <h3>final ansible code used to delete same name container and image</h3>
+<h4>devops ansible completed </h4>
